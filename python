@@ -1,0 +1,48 @@
+"""There are three numeric types in Python:
+    int
+    float
+    complex"""
+"""in types we have to create on variable it is used to assaign on value in that we can create any variable with any name"""
+
+
+
+#Examples#
+x = 1    # int
+y = 2.5  # float
+z = 3j   # complex
+
+
+# to verify the type of an number in any variable we have to type"""type()"""
+#function#
+#Example#
+print(type(x))
+print(type(y))
+print(type(z))
+
+
+#Int#
+""" int is used to assaign one value to one variable in positive or negative"""
+
+x =5
+y =1234567890987654321
+z =-2016789
+
+print(type(x))
+print(type(y))
+print(type(z))
+
+
+#Float#
+# Float, or "floating point number" is a number, positive or negative, containing one or more decimals.#
+#Examples#
+#Floats:#
+
+x = 1.5
+y = 1.0
+z = -35.55
+
+print(type(x))
+print(type(y))
+print(type(z))
+#only floats and int#
+
